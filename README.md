@@ -1,3 +1,3 @@
 # React-Native
 Curso na Udemy de Native
-Teste de commit
+Teste de commit pelo VS code
